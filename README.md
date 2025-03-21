@@ -2,7 +2,7 @@
 
 ![GRaY_UI](https://img.shields.io/badge/GRaY_UI-v1.0.0-blue)
 
-**GRaY_UI** is a powerful command-line interface tool that empowers developers to effortlessly fetch and integrate UI components from the [yupcha-ui-library](https://github.com/Rajat22UEE/ui_library.git) GitHub repository. With just a single command, you can enhance your project by automatically placing essential components directly into your project's `components/ui/` folder.
+**GRaY_UI** is a powerful command-line interface tool that empowers developers to effortlessly fetch and integrate UI components from the [GRaY-ui-library](https://github.com/Rajat22UEE/GRAY_UI.git) GitHub repository. With just a single command, you can enhance your project by automatically placing essential components directly into your project's `components/ui/` folder.
 
 ## 🚀 Features
 
@@ -17,4 +17,4 @@
 Using GRaY_UI is a breeze! You can run it directly with `npx`, eliminating the need for global installation. Simply execute the following command in your terminal:
 
 ```bash
-npx GRaY_UI add <component-name>
+npx gray_ui add <component-name>
