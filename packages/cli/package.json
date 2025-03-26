@@ -1,0 +1,15 @@
+{
+    "name": "gray_ui",
+    "version": "1.0.0",
+    "description": "CLI to fetch UI components from GitHub",
+    "bin": {
+      "gray_ui": "./bin/index.js"
+    },
+    "dependencies": {
+      "axios": "^1.4.0",
+      "fs-extra": "^11.1.0",
+      "chalk": "^5.3.0",
+      "ora": "^7.0.1"
+    }
+  }
+  
