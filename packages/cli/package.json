@@ -1,6 +1,6 @@
 {
-    "name": "grayui",
-    "version": "1.0.3",
+    "name": "@rajat_debnath/grayui",
+    "version": "1.0.4",
     "description": "CLI to fetch UI components from GitHub",
     "type": "module",
     "bin": {
