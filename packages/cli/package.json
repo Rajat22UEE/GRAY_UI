@@ -1,6 +1,6 @@
 {
-    "name": "gray-ui",
-    "version": "1.0.2",
+    "name": "grayui",
+    "version": "1.0.3",
     "description": "CLI to fetch UI components from GitHub",
     "type": "module",
     "bin": {
