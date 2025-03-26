@@ -1,6 +1,6 @@
 {
-    "name": "gray_ui",
-    "version": "1.0.0",
+    "name": "gray-ui",
+    "version": "1.0.1",
     "description": "CLI to fetch UI components from GitHub",
     "bin": {
       "gray_ui": "./bin/index.js"
