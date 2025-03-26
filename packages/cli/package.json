@@ -1,7 +1,8 @@
 {
     "name": "gray-ui",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "CLI to fetch UI components from GitHub",
+    "type": "module",
     "bin": {
       "gray_ui": "./bin/index.js"
     },
